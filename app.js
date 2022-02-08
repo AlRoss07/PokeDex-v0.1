@@ -41,7 +41,7 @@
 
 
 const poke_container = document.getElementById('poke_container');
-const numbersOfPkm = 151;
+const numbersOfPkm = 898;
 
 const fetchPokemon = async () => {
     for(let i = 1; i <= numbersOfPkm; i++){
